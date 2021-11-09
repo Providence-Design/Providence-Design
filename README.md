@@ -10,6 +10,9 @@ A Software Engineer specializing in Java technologies and AWS. Experience with t
 I am ethused about tech and tech content **but** I also talk about other topics than coding.
 I am open to work and learn 
 
+-----
+
+
 <!--
 **Providence-Design/Providence-Design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
