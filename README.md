@@ -1,4 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Providence!!
+![Twitter Follow](https://img.shields.io/twitter/follow/baabaprovidence?label=Follow%20me%20on%20Twitter&style=social)
 
 <!--
 **Providence-Design/Providence-Design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
